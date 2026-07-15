@@ -46,7 +46,7 @@ Keep tone:
 
 ## Planning
 
-The canonical plan lives in:
-- `internal/plan/content-plan.md`
-- `internal/plan/repo-structure.md`
-- `internal/plan/editorial-workflow.md`
+Internal planning does not live in this public repository.
+
+Keep only publishable content and public-safe contributor guidance here.
+

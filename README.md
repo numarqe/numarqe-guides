@@ -39,7 +39,7 @@ Explore the main site:
 
 ## Publishing model
 
-This repo is set up so public markdown pages in `docs/` publish to GitHub Pages. Internal planning docs are kept outside that published path.
+This repo is set up so public markdown pages in `docs/` publish to GitHub Pages. Internal planning is kept in a separate private repository.
 
 Recommended workflow:
 1. Open an issue for a page, brief or review task.
