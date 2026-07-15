@@ -47,6 +47,6 @@ Keep tone:
 ## Planning
 
 The canonical plan lives in:
-- `docs/plan/content-plan.md`
-- `docs/plan/repo-structure.md`
-- `docs/plan/editorial-workflow.md`
+- `internal/plan/content-plan.md`
+- `internal/plan/repo-structure.md`
+- `internal/plan/editorial-workflow.md`

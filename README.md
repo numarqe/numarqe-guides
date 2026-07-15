@@ -10,10 +10,10 @@ It is intentionally not a brochure mirror. The goal is to publish practical, com
 
 ## Start here
 
-- [Content plan and information architecture](docs/plan/content-plan.md)
-- [Editorial workflow: issues → branch → PR → publish](docs/plan/editorial-workflow.md)
-- [Repository structure and first 10 page targets](docs/plan/repo-structure.md)
 - [Guides site index](docs/index.md)
+- [Numarqe vs American Express](docs/comparisons/numarqe-vs-amex.md)
+- [Numarqe vs Barclaycard](docs/comparisons/numarqe-vs-barclaycard.md)
+- [Numarqe vs Payhawk](docs/comparisons/numarqe-vs-payhawk.md)
 
 ## First comparison drafts
 
@@ -39,7 +39,7 @@ Explore the main site:
 
 ## Publishing model
 
-This repo is set up so markdown pages in `docs/` can publish to GitHub Pages.
+This repo is set up so public markdown pages in `docs/` publish to GitHub Pages. Internal planning docs are kept outside that published path.
 
 Recommended workflow:
 1. Open an issue for a page, brief or review task.

@@ -15,11 +15,6 @@ A public library of markdown guides, comparisons and finance operations playbook
 - [Numarqe vs Barclaycard](comparisons/numarqe-vs-barclaycard.md)
 - [Numarqe vs Payhawk](comparisons/numarqe-vs-payhawk.md)
 
-### Planning and operations
-- [Content plan](plan/content-plan.md)
-- [Editorial workflow](plan/editorial-workflow.md)
-- [Repo structure](plan/repo-structure.md)
-
 ## About Numarqe
 
 Visit [numarqe.com](https://numarqe.com/) to explore:
