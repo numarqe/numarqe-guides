@@ -1,0 +1,6 @@
+title: Numarqe Guides
+description: Open finance operations guides, AP playbooks and vendor comparisons by Numarqe.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
